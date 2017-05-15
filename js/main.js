@@ -1,1 +1,2 @@
 
+alert("Javascript is connected");
